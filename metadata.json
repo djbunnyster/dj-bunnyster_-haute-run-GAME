@@ -1,0 +1,7 @@
+{
+  "name": "DJ BUNNYSTER: HAUTE RUN",
+  "description": "An immersive high-fashion rhythm runner game featuring the music and aesthetic of DJ BUNNYSTER. Follow the white rabbit through a minimalist digital runway, dodging static and collecting couture gems to the beat of 'Haute Couture'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
